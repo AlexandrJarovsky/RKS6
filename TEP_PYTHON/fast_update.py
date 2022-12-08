@@ -2,7 +2,7 @@
 
 from datetime import datetime
 import sqlite3
-import pyodbc
+# import pyodbc
 import os
 
 def in_numer(num_str=''):

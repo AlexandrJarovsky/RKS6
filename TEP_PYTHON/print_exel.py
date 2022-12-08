@@ -1,7 +1,7 @@
 # coding: utf8
 
 from datetime import datetime
-import win32com.client
+# import win32com.client
 import os, glob
 
 

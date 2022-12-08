@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import sqlite3
 import os, glob
 import print_exel
-import win32com.client
+# import win32com.client
 
 
 def prin_pr(TableName_prn='', day_prn='', mount_prn='', yaer_prn='', flag='', flag_prn=True):
