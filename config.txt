@@ -1,0 +1,1 @@
+d:\MB_TEP\TEP_PYTHON\test.txt    TEP_RKS6     d:\MB_TEP\TEP_PYTHON\start.bat

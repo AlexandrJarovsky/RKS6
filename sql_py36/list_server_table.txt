@@ -1,0 +1,2 @@
+RKS6
+d:\MB_TEP\TEP_PYTHON\db\tep_pks6.db RKS6
